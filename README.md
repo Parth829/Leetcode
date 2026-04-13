@@ -7,9 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parth829/Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Parth829/Leetcode/tree/master/0035-search-insert-position) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parth829/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parth829/Leetcode/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Parth829/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
