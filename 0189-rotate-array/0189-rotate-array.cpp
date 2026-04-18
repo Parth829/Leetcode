@@ -1,16 +1,10 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
-        int n = nums.size();
-        k = k % n;
-        vector<int> rotated(n);
+        if (nums.empty()) return;
+        k %= nums.size();
+        if (k == 0) return;
 
-        for (int i = 0; i < n; i++) {
-            rotated[(i + k) % n] = nums[i];
-        }
-
-        for (int i = 0; i < n; i++) {
-            nums[i] = rotated[i];
-        }        
+        std::rotate(nums.rbegin(), nums.rbegin() + k, nums.rend());
     }
 };
