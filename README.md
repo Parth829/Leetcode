@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Parth829/Leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parth829/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parth829/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Parth829/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Parth829/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Parth829/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth829/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Parth829/Leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parth829/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Parth829/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Linked List
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Parth829/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Parth829/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
