@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Parth829/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Parth829/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Parth829/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Parth829/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Parth829/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Greedy
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Parth829/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Parth829/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Parth829/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
