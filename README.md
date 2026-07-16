@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Parth829/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Parth829/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Parth829/Leetcode/tree/master/0036-valid-sudoku) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth829/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Parth829/Leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parth829/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parth829/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Parth829/Leetcode/tree/master/0036-valid-sudoku) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Parth829/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Parth829/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Parth829/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
