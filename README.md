@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Parth829/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth829/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Parth829/Leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parth829/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Parth829/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Parth829/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Prefix Sum
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Parth829/Leetcode/tree/master/0036-valid-sudoku) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Parth829/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
