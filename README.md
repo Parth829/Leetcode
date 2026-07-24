@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Parth829/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Parth829/Leetcode/tree/master/0189-rotate-array) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Parth829/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parth829/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3838-weighted-word-mapping](https://github.com/Parth829/Leetcode/tree/master/3838-weighted-word-mapping) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Parth829/Leetcode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Parth829/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
