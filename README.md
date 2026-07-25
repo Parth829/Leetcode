@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Parth829/Leetcode/tree/master/0036-valid-sudoku) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth829/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Parth829/Leetcode/tree/master/0189-rotate-array) |
+| [0321-create-maximum-number](https://github.com/Parth829/Leetcode/tree/master/0321-create-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parth829/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parth829/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Parth829/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Parth829/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth829/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Parth829/Leetcode/tree/master/0189-rotate-array) |
+| [0321-create-maximum-number](https://github.com/Parth829/Leetcode/tree/master/0321-create-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parth829/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Parth829/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Linked List
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Parth829/Leetcode/tree/master/0321-create-maximum-number) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Parth829/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Segment Tree
 |  |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Parth829/Leetcode/tree/master/0089-gray-code) |
+## Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/Parth829/Leetcode/tree/master/0321-create-maximum-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/Parth829/Leetcode/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
