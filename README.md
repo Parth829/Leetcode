@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Parth829/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Parth829/Leetcode/tree/master/0036-valid-sudoku) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Parth829/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Parth829/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Parth829/Leetcode/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parth829/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Parth829/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Parth829/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/Parth829/Leetcode/tree/master/0321-create-maximum-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Parth829/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Parth829/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Segment Tree
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parth829/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Parth829/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3838-weighted-word-mapping](https://github.com/Parth829/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
@@ -120,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/Parth829/Leetcode/tree/master/0321-create-maximum-number) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Parth829/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
