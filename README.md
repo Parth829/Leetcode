@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Parth829/Leetcode/tree/master/0321-create-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Parth829/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Parth829/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Parth829/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parth829/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Parth829/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parth829/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Parth829/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Parth829/Leetcode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Parth829/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Parth829/Leetcode/tree/master/0877-stone-game) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Parth829/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parth829/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/Parth829/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Parth829/Leetcode/tree/master/0877-stone-game) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Parth829/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Prefix Sum
 |  |
@@ -139,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Parth829/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Parth829/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
