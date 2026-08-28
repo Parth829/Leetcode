@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Parth829/Leetcode/tree/master/0321-create-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parth829/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Parth829/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Parth829/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Parth829/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Parth829/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Parth829/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Parth829/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/Parth829/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Parth829/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Parth829/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
