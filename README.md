@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Parth829/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Parth829/Leetcode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Parth829/Leetcode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Parth829/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Parth829/Leetcode/tree/master/0877-stone-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Parth829/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Parth829/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Parth829/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Parth829/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
