@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Parth829/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Parth829/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Parth829/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Parth829/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Parth829/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/Parth829/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Parth829/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Parth829/Leetcode/tree/master/0877-stone-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Parth829/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Parth829/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Parth829/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Parth829/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Parth829/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
 |  |
